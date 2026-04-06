@@ -1,6 +1,6 @@
-# Nama : Muhammad Avin Nugraha
-# NIM : 25091397128
-# Kelas : 2025D
+### Nama : Muhammad Avin Nugraha
+### NIM : 25091397128
+### Kelas : 2025D
 
 # Tugas Implementasi Algoritma Sorting
 
