@@ -22,7 +22,7 @@ Berikut adalah tampilan proses iterasi pada setiap bahasa pemrograman:
 > Menampilkan detail setiap perbandingan elemen.
 
 ### 2. Tampilan C++
-![Demo C++](Demo_C++.png)
+![Demo C++](Demo_Cpp.png)
 > Menampilkan hasil data setelah setiap putaran iterasi utama.
 
 ## Cara Menjalankan
